@@ -1,0 +1,60 @@
+{
+  "songs": [
+    {
+      "id": "101",
+      "album": "1",
+      "title": "The Horse and the Infant",
+      "performers": "Jorge Rivera-Herrans, Luke Holt & Cast of EPIC: The Musical",
+      "duration": "00:02:15",
+      "size": "15 MB"
+    },
+    {
+      "id": "102",
+      "album": "1",
+      "title": "Just a Man",
+      "performers": "Jorge Rivera-Herrans & Cast of EPIC: The Musical",
+      "duration": "00:02:30",
+      "size": "16 MB"
+    },
+    {
+      "id": "103",
+      "album": "1",
+      "title": "Full Speed Ahead",
+      "performers": "Jorge Rivera-Herrans, Armando Julián, Steven Dookie & Cast of EPIC: The Musical",
+      "duration": "00:05:10",
+      "size": "24 MB"
+    },
+    {
+      "id": "104",
+      "album": "1",
+      "title": "Open Arms",
+      "performers": "Jorge Rivera-Herrans & Steven Dookie",
+      "duration": "00:05:10",
+      "size": "23 MB"
+    },
+    {
+      "id": "105",
+      "album": "1",
+      "title": "Warrior of the Mind",
+      "performers": "Jorge Rivera-Herrans, Teagan Earley & Cast of EPIC: The Musical",
+      "duration": "00:05:10",
+      "size": "23 MB"
+    },
+    {
+      "id": "201",
+      "album": "2",
+      "title": "Ocean's Call",
+      "performers": "Jorge Rivera-Herrans",
+      "duration": "00:03:10",
+      "size": "12 MB"
+    },
+    {
+      "id": "301",
+      "album": "3",
+      "title": "Track 1",
+      "performers": "Artist Name",
+      "duration": "00:02:45",
+      "size": "8 MB"
+    }
+  ]
+}
